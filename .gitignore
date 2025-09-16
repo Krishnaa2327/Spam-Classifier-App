@@ -1,0 +1,14 @@
+# Data files
+data/
+SMSSpamCollection
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment folder (if you use one)
+venv/
+.env
